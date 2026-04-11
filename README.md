@@ -3,29 +3,24 @@
 ---
 
 ## ⚡ Ethereum Strawmap
-
-![Ethereum Strawmap](./ethereum-strawmap.png)
+![Ethereum Strawmap](./assets/ethereum-strawmap.png)
 
 ---
 
 ## ⚡ Yield Tranching
-
-![Yield Tranching](./yield-tranching.png)
+![Yield Tranching](./assets/yield-tranching.png)
 
 ---
 
 ## ⚡ Risk-Tranched Vault
-
-![Risk-Tranched Vault](./risk-tranched-vault.png)
+![Risk-Tranched Vault](./assets/risk-tranched-vault.png)
 
 ---
 
 ## ⚡ Yield vs Risk Reality
-
-![Yield vs Risk](./yield-vs-risk.png)
+![Yield vs Risk](./assets/yield-vs-risk.png)
 
 ---
 
 ## ⚡ DeFi Exploits 2026
-
-![DeFi Exploits](./defi-exploits-2026.png)
+![DeFi Exploits](./assets/defi-exploits.jpg)
