@@ -2,6 +2,11 @@
 
 ---
 
+## ⚡ zkEVM
+![zkEVM](./assets/zkevm-workflow.png)
+
+---
+
 ## ⚡ Ethereum Strawmap
 ![Ethereum Strawmap](./assets/ethereum-strawmap.png)
 
