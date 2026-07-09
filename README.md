@@ -2,6 +2,16 @@
 
 ---
 
+## ⚡ $PRIME
+![$PRIME](./assets/Prime.jpg)
+
+---
+
+## ⚡ Ryco
+![Royco](./assets/Royco.jpg)
+
+---
+
 ## ⚡ zkEVM
 ![zkEVM](./assets/zkevm-workflow.png)
 
