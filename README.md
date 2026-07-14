@@ -1,7 +1,7 @@
 # 📊 Infographics
 
 ## ⚡ Robinhood Chain Architecture
-![Robinhood Chain Architecture](./assets/assets/Robinhood-Chain-Architecture.png)
+![Robinhood Chain Architecture](./assets/Robinhood-Chain-Architecture.png)
 
 ---
 
