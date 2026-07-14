@@ -1,5 +1,8 @@
 # 📊 Infographics
 
+## ⚡ Robinhood Chain Architecture
+![Robinhood Chain Architecture](./assets/assets/Robinhood-Chain-Architecture.png)
+
 ---
 
 ## ⚡ $PRIME
